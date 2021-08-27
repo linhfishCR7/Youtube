@@ -59,4 +59,8 @@ Hoặc 8000 có thể thay đổi
 ```
 php -S localhost:8000
 ```
+<<<<<<< HEAD
 - Sau đó chạy đường dẫn sau để kiểm tra: [http://localhost:8000](http://localhost:8000) 
+=======
+-- Sau đó chạy đường dẫn sau để kiểm tra: [http://localhost:8000](http://localhost:8000) 
+>>>>>>> 46f018f2ab4910ab38baf379f5685f9c13a90cac
