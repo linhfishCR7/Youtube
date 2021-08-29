@@ -17,7 +17,5 @@ Trong thế giới web, thường sử dụng mô hình hoạt động giữa M�
 
 ### Người dùng sử dụng chương trình duyệt web (Web Browser) - có thể là Chrome, Firefox, Cốc Cốc, Safari, ...
 
-# Bài học trước
-[Giới thiệu - Cài đặt](../Chapter1/Readme-Bai1.md)
 # Bài học tiếp theo
 [Bài học 2](../Chapter2/Readme-Bai1.md)

@@ -61,6 +61,6 @@ composer require symfony/var-dumper
 ```
 
 # Bài học trước
-[Giới thiệu - Cài đặt](../Chapter2/Readme-Bai1.md)
+[Bài học 2](./Chapter2/Readme-Bai1.md)
 # Bài học tiếp theo
-[Bài học 2](../Chapter2/Readme-Bai2.md)
+[Bài học 4](../Chapter2/Readme-Bai3.md)

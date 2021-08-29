@@ -14,6 +14,7 @@ HeidiSQL - quản lý thực thi câu truy vấn SQL - [HeidiSQL](https://www.he
 Visual Studio Code IDE - trình gõ code - [Visual Studio Code](https://code.visualstudio.com/)
 ### 6. Tortoise GIT
 TortoiseGIT - [TortoiseGIT](https://tortoisegit.org/download/)
-
+# Bài học trước
+[Giới thiệu](../Chapter1/Readme-Bai1.md)
 # Bài học tiếp theo
 [Bài học 2](../Chapter2/Readme-Bai1.md)

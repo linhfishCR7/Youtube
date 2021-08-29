@@ -122,6 +122,6 @@ echo $twig->render('vidu01.html.twig', ['products' => $products] );
 - Truy cập địa chỉ: [http://localhost/Youtube/Backend-PHP-MySql-Twig/vidu01.php](http://localhost/Youtube/Backend-PHP-MySql-Twig/vidu01.php)
 
 # Bài học trước
-[Giới thiệu - Cài đặt](../Chapter2/Readme-Bai2.md)
+[Bài học 3](./Chapter2/Readme-Bai2.md)
 # Bài học tiếp theo
-[Bài học 2](../Chapter3/Readme-Bai1.md)
+[Bài học 5](../Chapter3/Readme-Bai1.md)
