@@ -5,8 +5,8 @@
 - Ví dụ thư mục gốc hiện tại trong bài học là `/Youtube/Backend-PHP-MySql-Twig/`
 - Tạo file `/bootstrap.php`
 ```
-+---php
-|   \---twig                    <- Đây là thư mục gốc của dự án, các bạn có thể đặt tên các bạn...
++---Youtube
+|   \---Backend-PHP-MySql-Twig  <- Đây là thư mục gốc của dự án, các bạn có thể đặt tên các bạn...
 |       +---bootstrap.php       <- Tạo file
 ```
 - Nội dung như sau:
